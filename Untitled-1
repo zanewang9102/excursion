@@ -1,0 +1,9 @@
+MP4 stock video
+Landscape image
+Cellphone icon
+
+The white "Cellphone Icon" image linked above will appear blank against the white background. We promise it's there!
+
+Make new directories inside the resources the resources directory called images and videos to store these items.
+
+By default, images will be appear on the same line as the element before them. In mock, all our images are centered on their won line. To effect this, make a new paragraph element and put the image element inside of it.
